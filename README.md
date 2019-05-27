@@ -1,2 +1,2 @@
-# outras_mundificacoes_esx
-Mundificações para seu ESX
+# outras_modificacoes_esx
+Modificações para seu ESX
